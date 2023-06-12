@@ -1,10 +1,10 @@
 # Matrizes
 //1)
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() 
-{
+    int main() 
+    {
     
     int matriz[3][3];
     int i, j;
@@ -29,10 +29,10 @@ int main()
 
 //2)
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() 
-{
+    int main() 
+    {
     
     int matriz[3][3];
     int matrizMultiplicada[3][3];
@@ -62,10 +62,10 @@ int main()
 
 //3)
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() 
-{
+    int main() 
+    {
     
     int matriz[2][3];
     int i, j, soma = 0;
@@ -85,10 +85,10 @@ int main()
 
 //4)
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() 
-{
+    int main() 
+    {
     
     int matriz[4][4];
     int i, j;
@@ -111,10 +111,10 @@ int main()
 
 //5)
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() 
-{
+    int main() 
+    {
     
     int matriz[3][3];
     int i, j;
